@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hurarara/react-movie-app/precache-manifest.c10a0547be9eba93149023b5a34501f1.js"
+  "/hurarara/react-movie-app/precache-manifest.6096605b74f8ce632e66a23d1dcb96a2.js"
 );
 
 workbox.clientsClaim();
