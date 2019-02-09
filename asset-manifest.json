@@ -1,13 +1,13 @@
 {
-  "main.css": "/hurarara/react-movie-app/static/css/main.9572b879.chunk.css",
-  "main.js": "/hurarara/react-movie-app/static/js/main.7d976cf5.chunk.js",
-  "main.js.map": "/hurarara/react-movie-app/static/js/main.7d976cf5.chunk.js.map",
-  "static/js/1.d120fdf0.chunk.js": "/hurarara/react-movie-app/static/js/1.d120fdf0.chunk.js",
-  "static/js/1.d120fdf0.chunk.js.map": "/hurarara/react-movie-app/static/js/1.d120fdf0.chunk.js.map",
-  "runtime~main.js": "/hurarara/react-movie-app/static/js/runtime~main.3f3a4963.js",
-  "runtime~main.js.map": "/hurarara/react-movie-app/static/js/runtime~main.3f3a4963.js.map",
-  "static/css/main.9572b879.chunk.css.map": "/hurarara/react-movie-app/static/css/main.9572b879.chunk.css.map",
-  "index.html": "/hurarara/react-movie-app/index.html",
-  "precache-manifest.6096605b74f8ce632e66a23d1dcb96a2.js": "/hurarara/react-movie-app/precache-manifest.6096605b74f8ce632e66a23d1dcb96a2.js",
-  "service-worker.js": "/hurarara/react-movie-app/service-worker.js"
+  "main.css": "/react-movie-app/static/css/main.9f33dfd7.chunk.css",
+  "main.js": "/react-movie-app/static/js/main.ca11c0d1.chunk.js",
+  "main.js.map": "/react-movie-app/static/js/main.ca11c0d1.chunk.js.map",
+  "static/js/1.d120fdf0.chunk.js": "/react-movie-app/static/js/1.d120fdf0.chunk.js",
+  "static/js/1.d120fdf0.chunk.js.map": "/react-movie-app/static/js/1.d120fdf0.chunk.js.map",
+  "runtime~main.js": "/react-movie-app/static/js/runtime~main.bdcfacaf.js",
+  "runtime~main.js.map": "/react-movie-app/static/js/runtime~main.bdcfacaf.js.map",
+  "static/css/main.9f33dfd7.chunk.css.map": "/react-movie-app/static/css/main.9f33dfd7.chunk.css.map",
+  "index.html": "/react-movie-app/index.html",
+  "precache-manifest.cb42def2897c1a124056b71f5751cb85.js": "/react-movie-app/precache-manifest.cb42def2897c1a124056b71f5751cb85.js",
+  "service-worker.js": "/react-movie-app/service-worker.js"
 }
